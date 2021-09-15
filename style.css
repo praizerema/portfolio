@@ -1,0 +1,19 @@
+.headerStyle {
+  background-color: #3c3a39;
+  width: 100%;
+  height: 70px;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  padding: 0 6%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}

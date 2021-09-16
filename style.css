@@ -28,15 +28,15 @@ body {
 
 .nameSalute {
   font-size: 56px;
-  font-family: Crete Round;
-  color: #ff6b00;
+  font-family: Crete Round, sans-serif;
   font-weight: 700;
+  color: #ff6b00;
 }
 
 .roleText {
   color: #fff;
   font-size: 24px;
-  font-family: Crete Round;
+  font-family: Crete Round, sans-serif;
 }
 
 .summaryText {
@@ -56,6 +56,7 @@ body {
   width: 200px;
   margin-top: 15px;
 }
+
 .illustration {
   position: absolute;
   width: 203px;

@@ -5,7 +5,7 @@
 > Portfolio
 > ![screenshot](./app_screenshot.png)
 
-My portfolio project to show my skills and competence. Potential clients and employers can discover me and know what i do through this portfolio
+A portfolio website is used to show a person's skills and competence. Potential clients and employers can discover you and know what you do through the portfolio
 
 ## Built With
 

@@ -5,7 +5,7 @@
 > Portfolio
 > ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+My portfolio project to show my skills and competence. Potential clients and employers can discover me and know what i do through this portfolio
 
 ## Built With
 
@@ -15,7 +15,7 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-- Open your terminal or command line 
+- Open your terminal or command line
 - Clone the project using:
 
 ```
@@ -29,7 +29,7 @@ $ git clone https://github.com/praizerema/portfolio.git
 
 ## Authors
 
-👤 **Author1**
+👤 **Praisegod Ayodele**
 
 - GitHub: [@praizerema](https://github.com/praizerema)
 - Twitter: [@ayodelepraisego](https://twitter.com/ayodelepraisego)
@@ -50,4 +50,3 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-

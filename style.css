@@ -31,6 +31,7 @@ body {
   font-family: Crete Round, sans-serif;
   font-weight: 700;
   color: #ff6b00;
+  margin: 15px 0;
 }
 
 .roleText {
@@ -61,7 +62,7 @@ body {
   position: absolute;
   width: 203px;
   height: 360px;
-  top: 270px;
+  top: 221px;
   right: 0%;
 }
 

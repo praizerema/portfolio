@@ -1,0 +1,72 @@
+.headerStyle {
+  background-color: #3c3a39;
+  width: 100%;
+  height: 70px;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  padding: 0 6%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.headlineSection {
+  padding: 6%;
+  background-color: #1c1a19;
+  height: 590px;
+  position: relative;
+  padding-top: 100px;
+}
+
+.nameSalute {
+  font-size: 56px;
+  font-family: Crete Round, sans-serif;
+  font-weight: 700;
+  color: #ff6b00;
+  margin: 15px 0;
+}
+
+.roleText {
+  color: #fff;
+  font-size: 24px;
+  font-family: Crete Round, sans-serif;
+}
+
+.summaryText {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  margin: 15px 0;
+}
+
+.socialPagesWrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+  margin-top: 15px;
+}
+
+.illustration {
+  position: absolute;
+  width: 203px;
+  height: 360px;
+  top: 221px;
+  right: 0%;
+}
+
+.illustration > image {
+  width: 100%;
+  height: auto;
+}

@@ -183,3 +183,65 @@ body {
 .padding-20 {
   padding: 20px;
 }
+
+.aboutMeSection {
+  background-color: #1c1a19;
+  height: auto;
+  position: relative;
+  padding: 6%;
+  padding-right: 0;
+  padding-top: 115px;
+}
+
+.aboutMeText {
+  font-size: 72px;
+  font-family: Crete Round, sans-serif;
+  font-weight: 700;
+  color: #ff6b00;
+  margin: 15px 0;
+  text-align: center;
+}
+
+.btn-orange3 {
+  background: #ff6b00;
+  height: 48px;
+  width: 161px;
+  border: 1px solid #ff6b00;
+  margin: 20px 0;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.mainStackWrap {
+  margin: auto;
+  text-align: center;
+  color: #fff;
+  padding: 130px 0;
+  border-top: 2px solid #fff;
+  padding-right: 6%;
+}
+
+.mainStackWrap li {
+  list-style-type: none;
+  line-height: 50px;
+  font-size: 22px;
+  font-family: "Inter", sans-serif;
+}
+
+.stackTitle {
+  font-size: 32px;
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+}
+
+.stackTitle span {
+  padding-left: 20px;
+}
+
+.backgroundImg {
+  background: url(./images/Frame1.png);
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position-x: right;
+}

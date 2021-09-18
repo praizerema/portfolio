@@ -242,3 +242,7 @@ body {
   background-repeat: no-repeat;
   background-position-x: right;
 }
+
+.padding-6{
+  padding-right: 6%;
+}

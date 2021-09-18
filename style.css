@@ -88,15 +88,9 @@ body {
   width: 100%;
 }
 
-.recentWork {
-  height: auto;
-  width: 100%;
-}
-
 .recentWorkImg1 {
-   height: 386px;
-   background:
-    linear-gradient(
+  height: 386px;
+  background: linear-gradient(
       180.45deg,
       rgba(38, 38, 38, 0) 6.75%,
       rgba(38, 38, 38, 0.6) 70.94%
@@ -149,7 +143,7 @@ body {
   font-size: 17px;
   font-weight: 700;
 }
- 
+
 .btn-orange1 {
   background: #ff6b00;
   height: 48px;

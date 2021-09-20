@@ -121,17 +121,12 @@ body {
   font-family: Crete Round, sans-serif;
 }
 
-.stackList {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-}
-
 .stackBox {
   padding: 10px 15px;
   border: 1px solid #8993a4;
   font-family: "Inter", sans-serif;
+  float: left;
+  margin-right: 6px;
 }
 
 .btn-orange {
@@ -175,6 +170,8 @@ body {
   background: rgba(255, 255, 255, 0.24);
   color: #fff;
   font-family: "Inter", sans-serif;
+  float: left;
+  margin-right: 6px;
 }
 
 .padding-20 {

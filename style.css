@@ -246,3 +246,49 @@ body {
 .padding-6 {
   padding-right: 6%;
 }
+
+.form-section {
+  display: flex;
+  flex-direction: column;
+}
+
+#form-header {
+  font-family: "Inter", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 44px;
+  text-align: center;
+  color: #172b4d;
+  padding: 15px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+
+.form-input {
+  border: none;
+  border-bottom: 1px solid #dbd8d7;
+  padding: 9px 10px;
+  margin-bottom: 15px;
+}
+
+#messageText {
+  background-color: #fbf8f7;
+  padding: 9px 10px;
+  border: none;
+}
+
+#get-touch-btn {
+  background-color: #ff6b00;
+  border: none;
+  height: 48px;
+  width: 131px;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 700;
+  margin: 0 auto;
+  margin-top: 24px;
+}

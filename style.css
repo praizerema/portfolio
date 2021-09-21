@@ -90,8 +90,7 @@ body {
 
 .recentWorkImg1 {
   height: 386px;
-  background:
-    linear-gradient(
+  background: linear-gradient(
       180.45deg,
       rgba(38, 38, 38, 0) 6.75%,
       rgba(38, 38, 38, 0.6) 70.94%
@@ -256,10 +255,11 @@ body {
   font-family: "Inter", sans-serif;
   font-size: 32px;
   font-weight: 700;
-  line-height: 44px;
+  line-height: 40px;
   text-align: center;
   color: #172b4d;
-  padding: 15px;
+  padding: 26px;
+  margin-top: 80px;
 }
 
 .input-container {
@@ -272,7 +272,7 @@ body {
   border: none;
   border-bottom: 1px solid #dbd8d7;
   padding: 9px 10px;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 #messageText {
@@ -291,4 +291,27 @@ body {
   font-weight: 700;
   margin: 0 auto;
   margin-top: 24px;
+}
+
+#get-touch-btn:hover {
+  background: #fff5e1;
+  border: 1px solid #f55800;
+  color: #f55800;
+  font-size: 17px;
+}
+
+#get-touch-btn:disabled {
+  background: #f4f1f0;
+  color: #5b5957;
+  font-size: 17px;
+}
+
+footer {
+  border-top: 1px solid #dbd8d7;
+  margin-top: 100px;
+  padding: 20px 25px;
+}
+
+footer > .socialPagesWrap {
+  margin: auto;
 }

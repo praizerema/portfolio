@@ -246,3 +246,73 @@ body {
 .padding-6 {
   padding-right: 6%;
 }
+
+.form-section {
+  display: flex;
+  flex-direction: column;
+}
+
+#form-header {
+  font-family: "Inter", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: center;
+  color: #172b4d;
+  padding: 26px;
+  margin-top: 80px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+
+.form-input {
+  border: none;
+  border-bottom: 1px solid #dbd8d7;
+  padding: 9px 10px;
+  margin-bottom: 20px;
+}
+
+#messageText {
+  background-color: #fbf8f7;
+  padding: 9px 10px;
+  border: none;
+}
+
+#get-touch-btn {
+  background-color: #ff6b00;
+  border: none;
+  height: 48px;
+  width: 131px;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 700;
+  margin: 0 auto;
+  margin-top: 24px;
+}
+
+#get-touch-btn:hover {
+  background: #fff5e1;
+  border: 1px solid #f55800;
+  color: #f55800;
+  font-size: 17px;
+}
+
+#get-touch-btn:disabled {
+  background: #f4f1f0;
+  color: #5b5957;
+  font-size: 17px;
+}
+
+footer {
+  border-top: 1px solid #dbd8d7;
+  margin-top: 100px;
+  padding: 20px 25px;
+}
+
+footer > .socialPagesWrap {
+  margin: auto;
+}

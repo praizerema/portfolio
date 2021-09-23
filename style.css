@@ -81,6 +81,7 @@ body {
   font-size: 40px;
   font-family: Crete Round, sans-serif;
   text-align: center;
+  color: #091e42;
 }
 
 .recentWorkContainer {
@@ -115,11 +116,13 @@ body {
 .font-16 {
   font-size: 16px;
   font-family: "Inter", sans-serif;
+  color: #091e42;
 }
 
 .font-32 {
   font-size: 32px;
   font-family: Crete Round, sans-serif;
+  color: #091e42;
 }
 
 .stackList {
@@ -133,6 +136,7 @@ body {
   padding: 10px 15px;
   border: 1px solid #8993a4;
   font-family: "Inter", sans-serif;
+  color: #091e42;
 }
 
 .btn-orange {
@@ -496,6 +500,8 @@ footer > .socialPagesWrap {
   .nav-items {
     width: 300px;
     display: block;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
   }
 
   .nav-items > ul {
@@ -522,6 +528,12 @@ footer > .socialPagesWrap {
     background-size: 40% 100%;
     background-repeat: no-repeat;
     background-position-x: right;
+  }
+
+  .multi-text-header{
+    color: #091e42;
+    font-size: 40px;
+
   }
 }
 

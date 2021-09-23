@@ -427,12 +427,12 @@ footer > .socialPagesWrap {
     background-position-x: right;
     background-position-y: 100px;
     background-size: 45% 20%;
-    padding-top: 100px;
     background-color: #1c1a19;
     height: auto;
     position: relative;
     padding: 7%;
     padding-right: 7%;
+    padding-top: 100px;
   }
 
   .aboutMeText {
@@ -480,13 +480,13 @@ footer > .socialPagesWrap {
   }
 
   #get-touch-btn {
-    margin:0;
+    margin: 0;
     margin-top: 24px;
   }
 
   footer {
     border-top: 1px solid #dbd8d7;
-    margin-top:0;
+    margin-top: 0;
     padding: 20px 25px;
   }
 

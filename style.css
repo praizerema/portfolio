@@ -359,6 +359,7 @@ footer > .socialPagesWrap {
   .workTitle {
     text-align: left;
     position: relative;
+    margin-top: 60px;
   }
 
   .workTitle::after {
@@ -378,6 +379,7 @@ footer > .socialPagesWrap {
     width: 100%;
     justify-content: space-between;
     align-content: space-between;
+    padding-top: 40px;
   }
 
   .multi-post-txt-wrap {
@@ -403,6 +405,7 @@ footer > .socialPagesWrap {
     grid-template-columns: 1fr 1fr;
     width: 100%;
     margin-top: 20px;
+    margin-bottom: 40px;
   }
 
   .recentWorkImg1 {
@@ -573,6 +576,7 @@ footer > .socialPagesWrap {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     width: 100%;
+    margin-bottom: 0px;
   }
 
   .aboutMeSection {

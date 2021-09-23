@@ -343,6 +343,7 @@ footer > .socialPagesWrap {
     left: -175px;
     top: 67px;
   }
+
   .socialPagesWrap1 > div {
     margin-bottom: 12px;
   }
@@ -378,6 +379,7 @@ footer > .socialPagesWrap {
     justify-content: space-between;
     align-content: space-between;
   }
+
   .multi-post-txt-wrap {
     flex: 4;
     padding-left: 30px;
@@ -389,7 +391,7 @@ footer > .socialPagesWrap {
   }
 
   .mt-0 {
-    margin-top: 0;
+    margin-top: 0px;
   }
 
   .stackList {
@@ -400,6 +402,7 @@ footer > .socialPagesWrap {
     display: grid;
     grid-template-columns: 1fr 1fr;
     width: 100%;
+    margin-top: 20px;
   }
 
   .recentWorkImg1 {
@@ -413,10 +416,6 @@ footer > .socialPagesWrap {
     cursor: pointer;
   }
 
-  .recentWorkContainer {
-    margin-top: 20px;
-  }
-
   .about-me-wrap {
     width: 40%;
   }
@@ -428,6 +427,12 @@ footer > .socialPagesWrap {
     background-position-y: 100px;
     background-size: 45% 20%;
     padding-top: 100px;
+    background-color: #1c1a19;
+    height: auto;
+    position: relative;
+    padding: 7%;
+    padding-right: 7%;
+    padding-top: 115px;
   }
 
   .aboutMeText {
@@ -437,14 +442,6 @@ footer > .socialPagesWrap {
   .backgroundImg {
     background: none;
     height: 100px;
-  }
-  .aboutMeSection {
-    background-color: #1c1a19;
-    height: auto;
-    position: relative;
-    padding: 7%;
-    padding-right: 7%;
-    padding-top: 115px;
   }
 
   .mainStackWrap {
@@ -462,10 +459,12 @@ footer > .socialPagesWrap {
     justify-content: space-between;
     padding: 7%;
   }
+
   .form-header-wrap {
     flex: 1;
     text-align: left;
   }
+  
   .form-container {
     flex: 2;
   }
@@ -480,7 +479,7 @@ footer > .socialPagesWrap {
   }
 
   #get-touch-btn {
-    margin: 0;
+    margin: 0px;
     margin-top: 24px;
   }
 
@@ -568,6 +567,7 @@ footer > .socialPagesWrap {
     top: 50%;
     position: absolute;
   }
+  
   .recentWorkContainer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

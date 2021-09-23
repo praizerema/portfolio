@@ -391,7 +391,7 @@ footer > .socialPagesWrap {
   }
 
   .mt-0 {
-    margin-top: 0px;
+    margin-top: 0;
   }
 
   .stackList {
@@ -406,8 +406,9 @@ footer > .socialPagesWrap {
   }
 
   .recentWorkImg1 {
-    margin: 0 15px 80px 0px;
+    margin: 0 15px 80px 0;
   }
+
   .recentWorkImg1:hover {
     margin: 0 15px 80px 15px;
     background: url(./images/ImgPlaceholder2.png);
@@ -432,7 +433,6 @@ footer > .socialPagesWrap {
     position: relative;
     padding: 7%;
     padding-right: 7%;
-    padding-top: 115px;
   }
 
   .aboutMeText {
@@ -453,6 +453,7 @@ footer > .socialPagesWrap {
     border-top: 2px solid #fff;
     margin-right: 0%;
   }
+
   .form-section {
     display: flex;
     flex-direction: row;
@@ -464,7 +465,7 @@ footer > .socialPagesWrap {
     flex: 1;
     text-align: left;
   }
-  
+
   .form-container {
     flex: 2;
   }
@@ -479,13 +480,13 @@ footer > .socialPagesWrap {
   }
 
   #get-touch-btn {
-    margin: 0px;
+    margin:0;
     margin-top: 24px;
   }
 
   footer {
     border-top: 1px solid #dbd8d7;
-    margin-top: 0px;
+    margin-top:0;
     padding: 20px 25px;
   }
 
@@ -567,7 +568,7 @@ footer > .socialPagesWrap {
     top: 50%;
     position: absolute;
   }
-  
+
   .recentWorkContainer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

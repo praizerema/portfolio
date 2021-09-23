@@ -3,7 +3,8 @@
 # Portfolio
 
 > Portfolio
-> ![screenshot](./portfolio.png)
+
+![screenshot](./portfolio.png)
 
 A portfolio website is used to show a person's skills and competence. Potential clients and employers can discover you and know what you do through the portfolio
 

@@ -330,6 +330,12 @@ footer > .socialPagesWrap {
   display: block;
 }
 
+@media (min-width: 540px) {
+.stackList{
+  width: 65%;
+}
+}
+
 @media (min-width: 600px) {
   .menu-icon {
     display: none;
@@ -369,7 +375,7 @@ footer > .socialPagesWrap {
   .workTitle::after {
     content: "";
     display: block;
-    width: 50%;
+    width: 34%;
     height: 2px;
     background-color: #212121;
     right: 4px;
@@ -401,7 +407,7 @@ footer > .socialPagesWrap {
   }
 
   .stackList {
-    width: 80%;
+    width: 93%;
   }
 
   .recentWorkContainer {
@@ -536,6 +542,57 @@ footer > .socialPagesWrap {
   }
 }
 
+@media (min-width: 786px) {
+  .workTitle::after {
+    content: "";
+    display: block;
+    width: 50%;
+    height: 2px;
+    background-color: #212121;
+    right: 4px;
+    top: 50%;
+    position: absolute;
+  }
+}
+
+@media (min-width: 992px) {
+  .recentWorkContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .stackList {
+    width: 70%;
+  }
+
+  .workTitle::after {
+    content: "";
+    display: block;
+    width: 59%;
+    height: 2px;
+    background-color: #212121;
+    right: 4px;
+    top: 50%;
+    position: absolute;
+}
+}
+
+@media (min-width: 1100px) {
+  .workTitle::after {
+    content: "";
+    display: block;
+    width: 61%;
+    height: 2px;
+    background-color: #212121;
+    right: 4px;
+    top: 50%;
+    position: absolute;
+}
+}
+
 @media (min-width: 1200px) {
   .navbar {
     padding: 0 9%;
@@ -575,7 +632,7 @@ footer > .socialPagesWrap {
   .workTitle::after {
     content: "";
     display: block;
-    width: 68%;
+    width: 66%;
     height: 2px;
     background: #000;
     right: 4px;
@@ -602,4 +659,8 @@ footer > .socialPagesWrap {
   .workSection {
     padding: 0 9%;
   }
+
+  .stackList {
+    width: 90%;
+}
 }

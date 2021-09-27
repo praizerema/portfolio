@@ -4,13 +4,17 @@
 
 > Portfolio
 
-![screenshot](https://res.cloudinary.com/dqpt2r6dr/image/upload/v1632414167/portfolio_qs5ngk.png)
+![screenshot](./app_screenshot.png)
 
 A portfolio website is used to show a person's skills and competence. Potential clients and employers can discover you and know what you do through the portfolio
 
 ## Built With
 
 - HTML and CSS
+
+## Live Demo
+
+[Live Demo Link](https://praizerema.github.io/portfolio/)
 
 ## Getting Started
 
